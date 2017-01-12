@@ -1,0 +1,35 @@
+/* add your CSS here */
+body{
+  font-family: arial,sans-serif;
+  width: 300px;
+  border-style: solid;
+  padding: 10px;
+  -moz-box-shadow:10px 10px 15px #333333;
+  -webkit-box-shadow:10px 10px 15px #333333;
+  box-shadow:10px 10px 15px #333333;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+#image{
+  width: 300px;
+  height: 200px;
+}
+
+#info{
+  border-style: solid;
+}
+
+#fact{
+  font-style: italic;
+}
+
+.list{
+  list-style: none;
+}
+
+.item{
+  font-weight: bold;
+}
